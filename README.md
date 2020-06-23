@@ -79,7 +79,7 @@ It can also be updated to compare infant mortalty rates based on income, educati
 
 The following pages were used in troubleshooting and creating this project:
 
-* https://www.storybench.org/create-simple-line-chart-r/
+* https://www.datanovia.com/en/lessons/reorder-data-frame-rows-in-r/
 * https://www.datanovia.com/en/blog/ggplot-title-subtitle-and-caption/
 * https://stackoverflow.com/questions/52522565/git-is-not-working-after-macos-update-xcrun-error-invalid-active-developer-pa/52761902#52761902
 * https://www.datanovia.com/en/blog/ggplot-legend-title-position-and-labels/
@@ -87,4 +87,4 @@ The following pages were used in troubleshooting and creating this project:
 A blog post was created to display the visualizations created with this project
 Check it out here:
 
-https://defystats.wordpress.com/2020/04/28/is-this-our-new-normal/
+https://defystats.wordpress.com/2020/05/22/giving-birth-while-black/
